@@ -1,6 +1,8 @@
 # csem_gt
 Conditional standard errors of measurement under Generalizability Theory Use csem_gt (csemGT) With (In) R Software
 
+https://www.youtube.com/watch?v=fDZOIxgTnbA
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
